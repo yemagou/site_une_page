@@ -9,14 +9,12 @@
         <body>
             <header>            
                 <nav>
-                    <div class="anim-nav">
                         <ul>
                             <li><a href="#accueil">accueil</a></li>
                             <li><a href="#materiel">matériel</a></li>
                             <li><a href="#tarifs">tarifs</a></li>
                             <li><a href="#contact">contact</a></li>
                         </ul>
-                    </div>
                 </nav>
             
                 <div class="intro">
