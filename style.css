@@ -27,14 +27,14 @@ nav{
     width: 100%;
     text-align: center;
     background-color: transparent;
-    transition: background-color 0.3s ease-in-out,
-                border-bottom 0.3s ease-in-out;
+    /*transition: background-color 0.3s ease-in-out,
+                border-bottom 0.3s ease-in-out;*/
 }
-nav .anim-nav{
+/*nav .anim-nav{
     background: #000;
     border-bottom: 1px solid #f1f1f1;
     color: #f1f1f1;
-}
+}*/
 nav ul li{
     display: inline-block;
     list-style-type: none;
